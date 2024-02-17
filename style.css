@@ -1,0 +1,14 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+h3 {
+    color: brown;
+    background: wheat;
+}
+
+p {
+    font-style: italic;
+    background-color: antiquewhite;
+}
